@@ -11,7 +11,7 @@
 ## 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
 
-📫 How to reach me...
+# 📫 How to reach me...
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-petkar-434a8217)
 
