@@ -14,5 +14,6 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
 📫 How to reach me...
 ## 🔗 Links
 [![linkedin](https://www.linkedin.com/in/dany-petkar-434a8217)](https://www.linkedin.com/)
+
 [![twitter](https://twitter.com/danypetkar)](https://twitter.com/)
 
