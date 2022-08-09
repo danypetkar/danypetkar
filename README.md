@@ -1,11 +1,8 @@
 
 # 🚀 About Me
 ## Hi, I'm Dany..! 👋
-
 🧠 I'm a data science enthusiast...
-
 👩‍💻 I'm currently working as Lead Data Scientist
-
 🌱 Check out Medium Blogs at https://medium.com/@danypetkar
 
 ## 🛠 Skills
