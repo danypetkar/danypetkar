@@ -18,5 +18,8 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danypetkar)
 
 ## 🔗 Links
-.....
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)(https://www.credly.com/badges/320084aa-2ec6-4bac-afa6-f8e044a7b1e3?source=linked_in_profile)
+
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)(https://courses.nvidia.com/certificates/a49197098f274e339f74cc0d964b40c6/)
+
 
