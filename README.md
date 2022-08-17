@@ -30,6 +30,7 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="pycharm" alt="pycharm" width="60" height="60"/>&nbsp;
   <img src="https://github.com/danypetkar/danypetkar/blob/main/nvidia-wordmark.svg" title="nvidia" alt="nvidia" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/danypetkar/danypetkar/blob/main/hadoop-lockup.svg" title="hadoop" alt="hadoop" width="60" height="60"/>&nbsp;
   
 </div>
 
