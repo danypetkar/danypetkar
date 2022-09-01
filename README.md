@@ -8,6 +8,8 @@
 
 🌱 Check out Medium Blogs at https://medium.com/@danypetkar
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danypetkar" alt="danypetkar" /></a> </p>
+
 ### 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
 
