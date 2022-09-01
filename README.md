@@ -35,6 +35,7 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
 </div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="danypetkar" /></p>
+
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danypetkar&theme=dark&background=000000)](https://git.io/streak-stats)
