@@ -8,9 +8,6 @@
 
 🌱 Check out Medium Blogs at https://medium.com/@danypetkar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danypetkar&label=Profile%20views&color=0e75b6&style=flat" alt="danypetkar" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danypetkar" alt="danypetkar" /></a> </p>
-
 ### 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
 
@@ -40,6 +37,9 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danypetkar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danypetkar&label=Profile%20views&color=0e75b6&style=flat" alt="danypetkar" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danypetkar" alt="danypetkar" /></a> </p>
 
 ### 📫 How to reach me...
 
