@@ -2,7 +2,7 @@
 # 🚀 About Me
 ## Hi, I'm Dany..! 👋
 
-🧠 I'm a data science enthusiast...
+🧠 I'm a Google TensorFlow Certified Data scientist...
 
 👩‍💻 I'm currently working as Lead Data Scientist
 
