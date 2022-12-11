@@ -11,6 +11,28 @@
 ### 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="danypetkar" /></p>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danypetkar&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danypetkar&label=Profile%20views&color=0e75b6&style=flat" alt="danypetkar" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danypetkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📫 How to reach me...
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-petkar-434a8217)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danypetkar)
+
+### 🔗 Certification
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.credly.com/badges/320084aa-2ec6-4bac-afa6-f8e044a7b1e3?source=linked_in_profile)
+
+[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/a49197098f274e339f74cc0d964b40c6/)
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -33,24 +55,3 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
   <img src="https://github.com/danypetkar/danypetkar/blob/main/hadoop-lockup.svg" title="hadoop" alt="hadoop" width="60" height="60"/>&nbsp;
   
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="danypetkar" /></p>
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danypetkar&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danypetkar&label=Profile%20views&color=0e75b6&style=flat" alt="danypetkar" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danypetkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📫 How to reach me...
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-petkar-434a8217)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danypetkar)
-
-### 🔗 Certification
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.credly.com/badges/320084aa-2ec6-4bac-afa6-f8e044a7b1e3?source=linked_in_profile)
-
-[![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/a49197098f274e339f74cc0d964b40c6/)
