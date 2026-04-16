@@ -22,22 +22,21 @@ Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jet
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danypetkar&show_icons=true&locale=en" alt="danypetkar" /></p>
+---
 
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danypetkar&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danypetkar&label=Profile%20views&color=0e75b6&style=flat" alt="danypetkar" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danypetkar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+---
 ### 📫 How to reach me...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dany-petkar-434a8217)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danypetkar)
 
-
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
