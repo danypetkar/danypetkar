@@ -15,6 +15,8 @@
 
 [![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://courses.nvidia.com/certificates/a49197098f274e339f74cc0d964b40c6/)
 
+---
+
 ### 🛠 Skills
 Linux, Hadoop, Deep Learning, NLP, Machine Learning, Computer vision, Nvidia Jetson
 
